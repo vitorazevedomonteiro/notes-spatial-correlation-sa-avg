@@ -5,7 +5,7 @@ Additionally, the repository provides comparisons between the indirect and direc
 
 For more detail please see:
 # Reference
-Monteiro, V.A, and O’Reilly, G.J. (2026) ‘Notes on spatial correlation for average spectral acceleration: direct and indirect approaches’, (under review)
+Monteiro, V.A, and O’Reilly, G.J. (2026) ‘Notes on spatial correlation for average spectral acceleration: direct and indirect approaches’, (accepted)
 
 # How to use
 ### Define which residual-type you want and select the period T for $Sa_{avg}(T)$. See main.py
