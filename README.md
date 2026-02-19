@@ -87,6 +87,6 @@ DN21:Du and Ning [2021]; MAO26:Monteiro et al. [2026].</em>
   <br>
   <em>Figure 1: Comparison of indirect approach for spatial correlation for Saavg2(1.0) using within-
 event (solid lines) and total-event (dashed lines) using different inter-IM spatial correlation models.
-LB13:Loth and Baker [2013], MCB18:Markhvida et al. [2018],DN21:Du and Ning [2021]:Monteiro
+LB13:Loth and Baker [2013], MCB18:Markhvida et al. [2018], DN21:Du and Ning [2021], MAO26:Monteiro
 et al. [2026].</em>
 </p>
